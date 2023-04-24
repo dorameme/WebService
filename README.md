@@ -13,7 +13,7 @@ dependencies {
 }가아닌
 dependencies {
   compileOnly 'org.projectlombok:lombok'
-  annotationProcessor 'org.projectlombok:lombok'<img width="1440" alt="스크린샷 2023-04-24 오후 12 26 53" src="https://user-images.githubusercontent.com/68580993/233893596-becf5e15-40aa-4771-a623-726a7701d782.png">
+  annotationProcessor 'org.projectlombok:lombok'
 
 }로 바꾸어주니 정상작동 하였다.
 
